@@ -6,7 +6,14 @@ This is my personal repository where i upload almost everything that i code to k
 Programming languages that i'm learning:
 ```
 
-# The C Programming Language
-![C]("https://a0.anyrgb.com/pngimg/1502/1292/c-sharp-program-icon-c-programming-language-programming-language-lisp-source-code-rust-programmer-programming-computer-programming.png")
+## The C Programming Language
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="150" height="150" />
+
+## Go
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" width="150" height="150"/>
+
+## Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="150" height="150" />
+
 
 
